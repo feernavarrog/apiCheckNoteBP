@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "categoria": 1,
+      "titulo": "Aprender TypeScript",
+      "descripcion": "Estudiar los fundamentos y características avanzadas de TypeScript."
+    },
+    {
+      "id": 2,
+      "categoria": 1,
+      "titulo": "Practicar Algoritmos",
+      "descripcion": "Resolver varios problemas de algoritmos y estructuras de datos."
+    },
+    {
+      "id": 3,
+      "categoria": 1,
+      "titulo": "Dominar Angular",
+      "descripcion": "Crear aplicaciones completas utilizando Angular y sus funcionalidades."
+    },
+    {
+      "id": 4,
+      "categoria": 1,
+      "titulo": "Mejorar en CSS",
+      "descripcion": "Estudiar layouts avanzados y nuevas técnicas en CSS y CSS preprocessors."
+    },
+    {
+      "id": 5,
+      "categoria": 1,
+      "titulo": "Construir Proyectos Personales",
+      "descripcion": "Crear proyectos personales que demuestren habilidades y conocimientos."
+    },
+    {
+      "id": 6,
+      "categoria": 2,
+      "titulo": "Técnica Pomodoro",
+      "descripcion": "Utilizar la técnica Pomodoro para mejorar la productividad y concentración."
+    },
+    {
+      "id": 7,
+      "categoria": 2,
+      "titulo": "Hacer Resúmenes",
+      "descripcion": "Tomar notas y hacer resúmenes de temas complejos para mejorar la comprensión."
+    },
+    {
+      "id": 8,
+      "categoria": 2,
+      "titulo": "Utilizar Trello",
+      "descripcion": "Organizar tareas y seguimiento de proyectos utilizando Trello o herramienta similar."
+    },
+    {
+      "id": 9,
+      "categoria": 2,
+      "titulo": "Aprender un Nuevo Lenguaje",
+      "descripcion": "Explorar y aprender un nuevo lenguaje de programación para ampliar habilidades."
+    },
+    {
+      "id": 10,
+      "categoria": 2,
+      "titulo": "Investigar Mejores Prácticas",
+      "descripcion": "Investigar y aplicar las mejores prácticas de programación en proyectos personales."
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
